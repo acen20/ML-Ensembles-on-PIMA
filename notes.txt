@@ -1,0 +1,7 @@
+After making 3 categories of glucose
+0 - 10
+1 - 232
+2 - 394
+
+-If glucose problem is made binary with 125 as mid point
+
